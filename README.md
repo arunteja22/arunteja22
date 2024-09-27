@@ -1,4 +1,4 @@
-## About Me :
+##💫About Me :
 ### Hi, I'm Arun 👋
 
 👨‍🎓Graduated Master's in [Computer Science] at University of Massachusetts at Dartmouth <br/>

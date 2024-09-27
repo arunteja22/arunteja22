@@ -1,7 +1,7 @@
 ## About Me :
 ### Hi, I'm Arun 👋
 
-👨‍🎓Studied [Computer Science] at University of Massachusetts at Dartmouth <br/>
+👨‍🎓Master's in [Computer Science] at University of Massachusetts at Dartmouth <br/>
 💭Currently learning about advances in Artificial Intelligence <br/>
 ⚡ Interested in Front-End Web Development using HTML, JS, React and Angular<br/> 
 👨‍💻Worked on Machine Learning and Web Development projects <br/>
